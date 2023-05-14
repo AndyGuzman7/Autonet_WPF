@@ -97,7 +97,6 @@ E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\DAO.Model.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\MaterialDesignColors.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
-E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\WpfAnimatedGif.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\DAO.Interfaces.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\Strategys.dll
@@ -183,9 +182,6 @@ E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\obj\Debug\Univalle.AutoNetWPF.csproj.AssemblyReference.cache
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\obj\Debug\Ventas\ListaVentas\uscListaVentas.g.cs
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\obj\Debug\Ventas\ListaVentas\uscListaVentas.baml
-E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
-E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\CrystalDecisions.ReportSource.dll
-E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\CrystalDecisions.Shared.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
@@ -201,8 +197,6 @@ E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\stdole.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\obj\Debug\Reports\UserReport.g.cs
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\obj\Debug\Reports\UserReport.baml
-E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
-E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\AxShockwaveFlashObjects.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\ShockwaveFlashObjects.dll
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\AForge.dll
@@ -213,3 +207,5 @@ E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\bin\Debug\AForge.Video.DirectShow.xml
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\obj\Debug\Ventas\HacerVenta\windowsRecibo.g.cs
 E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\obj\Debug\Ventas\HacerVenta\windowsRecibo.baml
+E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\obj\Debug\Univalle.AutoNetWPF.csproj.CopyComplete
+E:\Archivos Andy\UNIVERSIDAD\3ER-SEMESTRE\BASE DE DATOS II\proyecto\PBDD_AUTONET\PBDD_AUTONET\Univalle.AutoNet\Univalle.AutoNetWPF\obj\Debug\Univalle.AutoNetWPF.csproj.SuggestedBindingRedirects.cache

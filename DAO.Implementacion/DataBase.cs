@@ -11,8 +11,9 @@ namespace DAO.Implementacion
 {
     class DataBase
     {
-        
-        private static string connectionString = @"data source = localhost\SQLEXPRESS; initial catalog = BDDAUTONET; user id= root; password=Univalle";
+
+        private static string connectionString = @"data source = (local); initial catalog = BDDAUTONET; user id= autoNet; password=Univalle";
+
         public static SqlCommand CreateBasicCommand()
         {
             SqlConnection connection = new SqlConnection(connectionString);
